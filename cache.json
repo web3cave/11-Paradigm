@@ -1,11 +1,4 @@
 {
-  "sources": [
-    {
-      "title": "Paradigm Research",
-      "feedUrl": "https://research.paradigm.xyz/feed.xml",
-      "siteUrl": "https://research.paradigm.xyz/",
-      "articles": []
-    }
-  ],
+  "sources": [],
   "cliVersion": "1.15.1"
 }
